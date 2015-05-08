@@ -2,7 +2,7 @@
 "OK" = "OK";
 "Error" = "Fehler";
 "Error while loading deck" = "Fehler beim Laden des Decks";
-"Empty deck url" = "Keine Deck URL";
+"Empty deck url" = "Fehlende Deck URL";
 "Import Deck" = "Deck importieren";
 "Deck URL" = "Deck URL";
 "Import" = "Import";
@@ -111,7 +111,7 @@
 "Draw : " = "Draw : ";
 
 "Player" = "Spieler";
-"Opponent" = "Gegener";
+"Opponent" = "Gegner";
 
 "You must restart Hearthstone for logs to be used" = "You must restart Hearthstone for logs to be used";
 "Cards images are not found. Please confirm the Hearthstone language then click OK to download them." = "Cards images are not found.\nPlease confirm the Hearthstone language then click OK to download them.";
